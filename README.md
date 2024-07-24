@@ -27,3 +27,8 @@ Navigate through directories like ancient texts. Study coding patterns, understa
 In this repository, coding is an art form. 🎵🤖
 
 Happy coding, and may your memory allocations be efficient and leak-free! 🌟🔍🔧
+
+ Index : 
+ 1. l1u1 - lesson 1 unit 1 - object oriented programming basics
+ 2. l1u2 - lesson 1 unit 2 - use of member function syntax and inside/outside class declaration
+ 3. l1u3 - lesson 1 unit 3 - Nested Member functions 

@@ -31,4 +31,7 @@ Happy coding, and may your memory allocations be efficient and leak-free! ðŸŒŸðŸ
  Index : 
  1. l1u1 - lesson 1 unit 1 - object oriented programming basics
  2. l1u2 - lesson 1 unit 2 - use of member function syntax and inside/outside class declaration
- 3. l1u3 - lesson 1 unit 3 - Nested Member functions 
+ 3. l1u3 - lesson 1 unit 3 - Nested Member functions
+ 4. l1u4 - lesson 1 unit 4 - Private Member functions and Arrays in them (pointers are too advanced for this level but everything same for arrays)
+ 5. l2u1 - lesson 2 unit 1 - Constructors in C++
+ 6. l2u1p1 - lesson 2 unit 1 program 1 -
